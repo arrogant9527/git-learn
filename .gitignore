@@ -1,3 +1,4 @@
 /*仓库忽略文件列表：在此处列出，Git仓库不会提及这些文件*/
 .idea/
 node_modules/
+.project/
